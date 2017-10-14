@@ -1,0 +1,11 @@
+#ifndef SQLITE_LAB_CONFIG_H_H
+#define SQLITE_LAB_CONFIG_H_H
+
+#define RECORDS_COUNT 1000000
+#define REQUESTED_ID 999999
+#define NAME_SIZE 8
+#define DESCRIPTION_SIZE 15
+#define USE_MEMORY true
+#define USE_TRANSACTIONS true
+
+#endif
